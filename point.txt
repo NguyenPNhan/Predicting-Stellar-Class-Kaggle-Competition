@@ -1,0 +1,5 @@
+0.88894:
+- Optuna 36 SGDClassifier models, ensemble best 5 models
+
+0.96572:
+- Use LGBMClassifier with class balance

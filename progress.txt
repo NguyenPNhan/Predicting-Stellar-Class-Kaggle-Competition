@@ -1,4 +1,8 @@
 13/6: EDA; basic SGD
+- EDA; basic SGD
 14/6:
 - Tunning parameters of SGD with optuna
-- Ensemble best 5 models
+- Ensemble best 5 SGD models
+
+15/6:
+- LGBM with class balance
