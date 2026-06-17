@@ -6,3 +6,9 @@
 
 15/6:
 - LGBM with class balance
+
+16/6:
+- Optuna for LGBM
+
+17/6:
+- Try XGBoost -> improve
